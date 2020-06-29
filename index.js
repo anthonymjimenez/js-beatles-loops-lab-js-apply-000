@@ -18,7 +18,7 @@ const johnLennonFacts = (arrayOfFacts) => {
 
 const iLoveTheBeatles = (number) => {
   var array = [];
-  do { 
+  do {
     array.push('I love the Beatles!');
     number += 1;
   }while(number < 15)
