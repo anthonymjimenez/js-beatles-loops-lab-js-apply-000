@@ -21,5 +21,7 @@ const iLoveTheBeatles = (number) => {
   do {
     array.push('I love the Beatles!');
     number += 1;
-  }while(number < 15)
+  }while(number < 15);
+  return array;
 }
+
